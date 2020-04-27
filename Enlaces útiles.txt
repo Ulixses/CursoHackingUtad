@@ -1,0 +1,5 @@
+Esteganografía en imagenes: https://georgeom.net/StegOnline/upload
+Esteganografía en texto: https://offdev.net/demos/zwsp-steg-js
+Correo temporal: https://www.mailinator.com/
+Correo falso: https://emkei.cz/
+Herramienta para criptografía: https://gchq.github.io/CyberChef/
