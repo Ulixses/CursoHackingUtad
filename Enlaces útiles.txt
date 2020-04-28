@@ -1,5 +1,7 @@
 Esteganografía en imagenes: https://georgeom.net/StegOnline/upload
 Esteganografía en texto: https://offdev.net/demos/zwsp-steg-js
+Imagen dentro de imagen: https://incoherency.co.uk/image-steganography/#unhide
 Correo temporal: https://www.mailinator.com/
 Correo falso: https://emkei.cz/
 Herramienta para criptografía: https://gchq.github.io/CyberChef/
+Descifrar MD5: https://www.md5online.org/md5-decrypt.html
