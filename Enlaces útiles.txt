@@ -1,4 +1,4 @@
-Esteganografía en imagenes: https://georgeom.net/StegOnline/upload
+Esteganografía en imagenes: https://stegonline.georgeom.net/upload
 Esteganografía en texto: https://offdev.net/demos/zwsp-steg-js
 Imagen dentro de imagen: https://incoherency.co.uk/image-steganography/#unhide
 Correo temporal: https://www.mailinator.com/
