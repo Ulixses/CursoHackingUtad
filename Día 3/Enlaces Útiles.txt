@@ -1,0 +1,4 @@
+
+Shodan: https://www.shodan.io/
+Google Dorking: 
+DVWA ISO: https://download.vulnhub.com/dvwa/DVWA-1.0.7.iso
