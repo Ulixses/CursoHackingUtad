@@ -1,1 +1,11 @@
 
+
+YT: https://www.youtube.com/c/JohnHammond010/videos
+    https://www.youtube.com/c/ippsec/videos
+Buscador: https://ippsec.rocks/?#
+THM: https://tryhackme.com/dashboard
+VulnHub: https://www.vulnhub.com/
+HackTheBox: https://www.hackthebox.eu/
+
+Incibe: https://www.incibe.es/
+Incibe Cursos: https://www.incibe.es/sites/default/files/paginas/talento/catalogos-formacion/catalogo-masteres-ciberseguridad-mayo-2019.pdf

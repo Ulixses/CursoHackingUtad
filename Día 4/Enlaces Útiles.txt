@@ -1,1 +1,5 @@
 
+DVWA guia: https://github.com/mrudnitsky/dvwa-guide-2019
+SQLMAP: https://medium.com/hacker-toolbelt/sqlmap-cheat-sheet-e5a38300b50
+Burpsuite: https://portswigger.net/burp
+BugBounty: https://www.hackerone.com/for-hackers/how-to-start-hacking
